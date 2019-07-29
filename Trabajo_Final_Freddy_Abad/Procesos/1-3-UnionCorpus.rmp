@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?><process version="9.2.001">
+  <context>
+    <input/>
+    <output/>
+    <macros/>
+  </context>
+  <operator activated="true" class="process" compatibility="9.2.001" expanded="true" name="Process">
+    <parameter key="logverbosity" value="init"/>
+    <parameter key="random_seed" value="2001"/>
+    <parameter key="send_mail" value="never"/>
+    <parameter key="notification_email" value=""/>
+    <parameter key="process_duration_for_mail" value="30"/>
+    <parameter key="encoding" value="SYSTEM"/>
+    <process expanded="true">
+      <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel" width="90" x="45" y="34">
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsOut\Final xlsx\3-CuerpoPagina1-100.xlsx"/>
+        <parameter key="sheet_selection" value="sheet number"/>
+        <parameter key="sheet_number" value="1"/>
+        <parameter key="imported_cell_range" value="A1"/>
+        <parameter key="encoding" value="SYSTEM"/>
+        <parameter key="first_row_as_names" value="true"/>
+        <list key="annotations"/>
+        <parameter key="date_format" value=""/>
+        <parameter key="time_zone" value="SYSTEM"/>
+        <parameter key="locale" value="English (United States)"/>
+        <parameter key="read_all_values_as_polynominal" value="false"/>
+        <list key="data_set_meta_data_information">
+          <parameter key="0" value="Cuerpo.true.polynominal.attribute"/>
+          <parameter key="1" value="Calificacion.true.real.attribute"/>
+        </list>
+        <parameter key="read_not_matching_values_as_missings" value="false"/>
+        <parameter key="datamanagement" value="double_array"/>
+        <parameter key="data_management" value="auto"/>
+      </operator>
+      <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (2)" width="90" x="45" y="85">
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsOut\Final xlsx\3-CuerpoPagina101-200.xlsx"/>
+        <parameter key="sheet_selection" value="sheet number"/>
+        <parameter key="sheet_number" value="1"/>
+        <parameter key="imported_cell_range" value="A1"/>
+        <parameter key="encoding" value="SYSTEM"/>
+        <parameter key="first_row_as_names" value="true"/>
+        <list key="annotations"/>
+        <parameter key="date_format" value=""/>
+        <parameter key="time_zone" value="SYSTEM"/>
+        <parameter key="locale" value="English (United States)"/>
+        <parameter key="read_all_values_as_polynominal" value="false"/>
+        <list key="data_set_meta_data_information">
+          <parameter key="0" value="Cuerpo.true.polynominal.attribute"/>
+          <parameter key="1" value="Calificacion.true.real.attribute"/>
+        </list>
+        <parameter key="read_not_matching_values_as_missings" value="false"/>
+        <parameter key="datamanagement" value="double_array"/>
+        <parameter key="data_management" value="auto"/>
+      </operator>
+      <operator activated="true" class="union" compatibility="9.2.001" expanded="true" height="82" name="Union" width="90" x="246" y="34"/>
+      <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (3)" width="90" x="45" y="136">
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsOut\Final xlsx\3-CuerpoPagina1-100.xlsx"/>
+        <parameter key="sheet_selection" value="sheet number"/>
+        <parameter key="sheet_number" value="1"/>
+        <parameter key="imported_cell_range" value="A1"/>
+        <parameter key="encoding" value="SYSTEM"/>
+        <parameter key="first_row_as_names" value="true"/>
+        <list key="annotations"/>
+        <parameter key="date_format" value=""/>
+        <parameter key="time_zone" value="SYSTEM"/>
+        <parameter key="locale" value="English (United States)"/>
+        <parameter key="read_all_values_as_polynominal" value="false"/>
+        <list key="data_set_meta_data_information">
+          <parameter key="0" value="Cuerpo.true.polynominal.attribute"/>
+          <parameter key="1" value="Calificacion.true.real.attribute"/>
+        </list>
+        <parameter key="read_not_matching_values_as_missings" value="false"/>
+        <parameter key="datamanagement" value="double_array"/>
+        <parameter key="data_management" value="auto"/>
+      </operator>
+      <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (4)" width="90" x="45" y="136">
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsOut\Final xlsx\3-CuerpoPagina201-300.xlsx"/>
+        <parameter key="sheet_selection" value="sheet number"/>
+        <parameter key="sheet_number" value="1"/>
+        <parameter key="imported_cell_range" value="A1"/>
+        <parameter key="encoding" value="SYSTEM"/>
+        <parameter key="first_row_as_names" value="true"/>
+        <list key="annotations"/>
+        <parameter key="date_format" value=""/>
+        <parameter key="time_zone" value="SYSTEM"/>
+        <parameter key="locale" value="English (United States)"/>
+        <parameter key="read_all_values_as_polynominal" value="false"/>
+        <list key="data_set_meta_data_information">
+          <parameter key="0" value="Cuerpo.true.polynominal.attribute"/>
+          <parameter key="1" value="Calificacion.true.real.attribute"/>
+        </list>
+        <parameter key="read_not_matching_values_as_missings" value="false"/>
+        <parameter key="datamanagement" value="double_array"/>
+        <parameter key="data_management" value="auto"/>
+      </operator>
+      <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (5)" width="90" x="45" y="187">
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsOut\Final xlsx\3-CuerpoPagina301-400.xlsx"/>
+        <parameter key="sheet_selection" value="sheet number"/>
+        <parameter key="sheet_number" value="1"/>
+        <parameter key="imported_cell_range" value="A1"/>
+        <parameter key="encoding" value="SYSTEM"/>
+        <parameter key="first_row_as_names" value="true"/>
+        <list key="annotations"/>
+        <parameter key="date_format" value=""/>
+        <parameter key="time_zone" value="SYSTEM"/>
+        <parameter key="locale" value="English (United States)"/>
+        <parameter key="read_all_values_as_polynominal" value="false"/>
+        <list key="data_set_meta_data_information">
+          <parameter key="0" value="Cuerpo.true.polynominal.attribute"/>
+          <parameter key="1" value="Calificacion.true.real.attribute"/>
+        </list>
+        <parameter key="read_not_matching_values_as_missings" value="false"/>
+        <parameter key="datamanagement" value="double_array"/>
+        <parameter key="data_management" value="auto"/>
+      </operator>
+      <operator activated="true" class="union" compatibility="9.2.001" expanded="true" height="82" name="Union (2)" width="90" x="246" y="136"/>
+      <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (6)" width="90" x="45" y="238">
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsOut\Final xlsx\3-CuerpoPagina401-500.xlsx"/>
+        <parameter key="sheet_selection" value="sheet number"/>
+        <parameter key="sheet_number" value="1"/>
+        <parameter key="imported_cell_range" value="A1"/>
+        <parameter key="encoding" value="SYSTEM"/>
+        <parameter key="first_row_as_names" value="true"/>
+        <list key="annotations"/>
+        <parameter key="date_format" value=""/>
+        <parameter key="time_zone" value="SYSTEM"/>
+        <parameter key="locale" value="English (United States)"/>
+        <parameter key="read_all_values_as_polynominal" value="false"/>
+        <list key="data_set_meta_data_information">
+          <parameter key="0" value="Cuerpo.true.polynominal.attribute"/>
+          <parameter key="1" value="Calificacion.true.real.attribute"/>
+        </list>
+        <parameter key="read_not_matching_values_as_missings" value="false"/>
+        <parameter key="datamanagement" value="double_array"/>
+        <parameter key="data_management" value="auto"/>
+      </operator>
+      <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (7)" width="90" x="45" y="289">
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsOut\Final xlsx\3-CuerpoPagina501-600.xlsx"/>
+        <parameter key="sheet_selection" value="sheet number"/>
+        <parameter key="sheet_number" value="1"/>
+        <parameter key="imported_cell_range" value="A1"/>
+        <parameter key="encoding" value="SYSTEM"/>
+        <parameter key="first_row_as_names" value="true"/>
+        <list key="annotations"/>
+        <parameter key="date_format" value=""/>
+        <parameter key="time_zone" value="SYSTEM"/>
+        <parameter key="locale" value="English (United States)"/>
+        <parameter key="read_all_values_as_polynominal" value="false"/>
+        <list key="data_set_meta_data_information">
+          <parameter key="0" value="Cuerpo.true.polynominal.attribute"/>
+          <parameter key="1" value="Calificacion.true.real.attribute"/>
+        </list>
+        <parameter key="read_not_matching_values_as_missings" value="false"/>
+        <parameter key="datamanagement" value="double_array"/>
+        <parameter key="data_management" value="auto"/>
+      </operator>
+      <operator activated="true" class="union" compatibility="9.2.001" expanded="true" height="82" name="Union (3)" width="90" x="246" y="238"/>
+      <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (8)" width="90" x="45" y="340">
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsOut\Final xlsx\3-CuerpoPagina601-700.xlsx"/>
+        <parameter key="sheet_selection" value="sheet number"/>
+        <parameter key="sheet_number" value="1"/>
+        <parameter key="imported_cell_range" value="A1"/>
+        <parameter key="encoding" value="SYSTEM"/>
+        <parameter key="first_row_as_names" value="true"/>
+        <list key="annotations"/>
+        <parameter key="date_format" value=""/>
+        <parameter key="time_zone" value="SYSTEM"/>
+        <parameter key="locale" value="English (United States)"/>
+        <parameter key="read_all_values_as_polynominal" value="false"/>
+        <list key="data_set_meta_data_information">
+          <parameter key="0" value="Cuerpo.true.polynominal.attribute"/>
+          <parameter key="1" value="Calificacion.true.real.attribute"/>
+        </list>
+        <parameter key="read_not_matching_values_as_missings" value="false"/>
+        <parameter key="datamanagement" value="double_array"/>
+        <parameter key="data_management" value="auto"/>
+      </operator>
+      <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (9)" width="90" x="45" y="391">
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsOut\Final xlsx\3-CuerpoPagina701-800.xlsx"/>
+        <parameter key="sheet_selection" value="sheet number"/>
+        <parameter key="sheet_number" value="1"/>
+        <parameter key="imported_cell_range" value="A1"/>
+        <parameter key="encoding" value="SYSTEM"/>
+        <parameter key="first_row_as_names" value="true"/>
+        <list key="annotations"/>
+        <parameter key="date_format" value=""/>
+        <parameter key="time_zone" value="SYSTEM"/>
+        <parameter key="locale" value="English (United States)"/>
+        <parameter key="read_all_values_as_polynominal" value="false"/>
+        <list key="data_set_meta_data_information">
+          <parameter key="0" value="Cuerpo.true.polynominal.attribute"/>
+          <parameter key="1" value="Calificacion.true.real.attribute"/>
+        </list>
+        <parameter key="read_not_matching_values_as_missings" value="false"/>
+        <parameter key="datamanagement" value="double_array"/>
+        <parameter key="data_management" value="auto"/>
+      </operator>
+      <operator activated="true" class="union" compatibility="9.2.001" expanded="true" height="82" name="Union (4)" width="90" x="246" y="340"/>
+      <operator activated="true" class="union" compatibility="9.2.001" expanded="true" height="82" name="Union (9)" width="90" x="447" y="238"/>
+      <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (10)" width="90" x="45" y="442">
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsOut\Final xlsx\3-CuerpoPagina801-900.xlsx"/>
+        <parameter key="sheet_selection" value="sheet number"/>
+        <parameter key="sheet_number" value="1"/>
+        <parameter key="imported_cell_range" value="A1"/>
+        <parameter key="encoding" value="SYSTEM"/>
+        <parameter key="first_row_as_names" value="true"/>
+        <list key="annotations"/>
+        <parameter key="date_format" value=""/>
+        <parameter key="time_zone" value="SYSTEM"/>
+        <parameter key="locale" value="English (United States)"/>
+        <parameter key="read_all_values_as_polynominal" value="false"/>
+        <list key="data_set_meta_data_information">
+          <parameter key="0" value="Cuerpo.true.polynominal.attribute"/>
+          <parameter key="1" value="Calificacion.true.real.attribute"/>
+        </list>
+        <parameter key="read_not_matching_values_as_missings" value="false"/>
+        <parameter key="datamanagement" value="double_array"/>
+        <parameter key="data_management" value="auto"/>
+      </operator>
+      <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (11)" width="90" x="45" y="493">
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsOut\Final xlsx\3-CuerpoPagina901-1000.xlsx"/>
+        <parameter key="sheet_selection" value="sheet number"/>
+        <parameter key="sheet_number" value="1"/>
+        <parameter key="imported_cell_range" value="A1"/>
+        <parameter key="encoding" value="SYSTEM"/>
+        <parameter key="first_row_as_names" value="true"/>
+        <list key="annotations"/>
+        <parameter key="date_format" value=""/>
+        <parameter key="time_zone" value="SYSTEM"/>
+        <parameter key="locale" value="English (United States)"/>
+        <parameter key="read_all_values_as_polynominal" value="false"/>
+        <list key="data_set_meta_data_information">
+          <parameter key="0" value="Cuerpo.true.polynominal.attribute"/>
+          <parameter key="1" value="Calificacion.true.real.attribute"/>
+        </list>
+        <parameter key="read_not_matching_values_as_missings" value="false"/>
+        <parameter key="datamanagement" value="double_array"/>
+        <parameter key="data_management" value="auto"/>
+      </operator>
+      <operator activated="true" class="union" compatibility="9.2.001" expanded="true" height="82" name="Union (5)" width="90" x="246" y="442"/>
+      <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (12)" width="90" x="45" y="595">
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsOut\Final xlsx\3-CuerpoPagina1101-1200.xlsx"/>
+        <parameter key="sheet_selection" value="sheet number"/>
+        <parameter key="sheet_number" value="1"/>
+        <parameter key="imported_cell_range" value="A1"/>
+        <parameter key="encoding" value="SYSTEM"/>
+        <parameter key="first_row_as_names" value="true"/>
+        <list key="annotations"/>
+        <parameter key="date_format" value=""/>
+        <parameter key="time_zone" value="SYSTEM"/>
+        <parameter key="locale" value="English (United States)"/>
+        <parameter key="read_all_values_as_polynominal" value="false"/>
+        <list key="data_set_meta_data_information">
+          <parameter key="0" value="Cuerpo.true.polynominal.attribute"/>
+          <parameter key="1" value="Calificacion.true.real.attribute"/>
+        </list>
+        <parameter key="read_not_matching_values_as_missings" value="false"/>
+        <parameter key="datamanagement" value="double_array"/>
+        <parameter key="data_management" value="auto"/>
+      </operator>
+      <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (13)" width="90" x="45" y="544">
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsOut\Final xlsx\3-CuerpoPagina1001-1100.xlsx"/>
+        <parameter key="sheet_selection" value="sheet number"/>
+        <parameter key="sheet_number" value="1"/>
+        <parameter key="imported_cell_range" value="A1"/>
+        <parameter key="encoding" value="SYSTEM"/>
+        <parameter key="first_row_as_names" value="true"/>
+        <list key="annotations"/>
+        <parameter key="date_format" value=""/>
+        <parameter key="time_zone" value="SYSTEM"/>
+        <parameter key="locale" value="English (United States)"/>
+        <parameter key="read_all_values_as_polynominal" value="false"/>
+        <list key="data_set_meta_data_information">
+          <parameter key="0" value="Cuerpo.true.polynominal.attribute"/>
+          <parameter key="1" value="Calificacion.true.real.attribute"/>
+        </list>
+        <parameter key="read_not_matching_values_as_missings" value="false"/>
+        <parameter key="datamanagement" value="double_array"/>
+        <parameter key="data_management" value="auto"/>
+      </operator>
+      <operator activated="true" class="union" compatibility="9.2.001" expanded="true" height="82" name="Union (6)" width="90" x="246" y="544"/>
+      <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (14)" width="90" x="45" y="646">
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsOut\Final xlsx\3-CuerpoPagina1200-1300.xlsx"/>
+        <parameter key="sheet_selection" value="sheet number"/>
+        <parameter key="sheet_number" value="1"/>
+        <parameter key="imported_cell_range" value="A1"/>
+        <parameter key="encoding" value="SYSTEM"/>
+        <parameter key="first_row_as_names" value="true"/>
+        <list key="annotations"/>
+        <parameter key="date_format" value=""/>
+        <parameter key="time_zone" value="SYSTEM"/>
+        <parameter key="locale" value="English (United States)"/>
+        <parameter key="read_all_values_as_polynominal" value="false"/>
+        <list key="data_set_meta_data_information">
+          <parameter key="0" value="Cuerpo.true.polynominal.attribute"/>
+          <parameter key="1" value="Calificacion.true.real.attribute"/>
+        </list>
+        <parameter key="read_not_matching_values_as_missings" value="false"/>
+        <parameter key="datamanagement" value="double_array"/>
+        <parameter key="data_management" value="auto"/>
+      </operator>
+      <operator activated="true" class="union" compatibility="9.2.001" expanded="true" height="82" name="Union (8)" width="90" x="447" y="340"/>
+      <operator activated="true" class="union" compatibility="9.2.001" expanded="true" height="82" name="Union (11)" width="90" x="648" y="391"/>
+      <operator activated="true" class="union" compatibility="9.2.001" expanded="true" height="82" name="Union (10)" width="90" x="447" y="85"/>
+      <operator activated="true" class="union" compatibility="9.2.001" expanded="true" height="82" name="Union (7)" width="90" x="648" y="187"/>
+      <operator activated="true" class="union" compatibility="9.2.001" expanded="true" height="82" name="Union (12)" width="90" x="782" y="289"/>
+      <operator activated="true" class="sort" compatibility="9.2.001" expanded="true" height="82" name="Sort" width="90" x="916" y="289">
+        <parameter key="attribute_name" value="Calificacion"/>
+        <parameter key="sorting_direction" value="increasing"/>
+      </operator>
+      <operator activated="true" class="filter_examples" compatibility="9.2.001" expanded="true" height="103" name="Filter Examples" width="90" x="1050" y="289">
+        <parameter key="parameter_expression" value=""/>
+        <parameter key="condition_class" value="custom_filters"/>
+        <parameter key="invert_filter" value="false"/>
+        <list key="filters_list">
+          <parameter key="filters_entry_key" value="Calificacion.ne.?"/>
+        </list>
+        <parameter key="filters_logic_and" value="true"/>
+        <parameter key="filters_check_metadata" value="true"/>
+      </operator>
+      <operator activated="true" class="generate_attributes" compatibility="9.2.001" expanded="true" height="82" name="Generate Attributes" width="90" x="1184" y="289">
+        <list key="function_descriptions">
+          <parameter key="Etiqueta" value="if(Calificacion&gt;3,&quot;Positivo&quot;,&quot;Negativo&quot;)"/>
+        </list>
+        <parameter key="keep_all" value="true"/>
+      </operator>
+      <operator activated="true" class="write_excel" compatibility="9.2.001" expanded="true" height="82" name="Write Excel" width="90" x="1318" y="289">
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\4-CorpusCalificacion1-1095.xlsx"/>
+        <parameter key="file_format" value="xlsx"/>
+        <parameter key="encoding" value="SYSTEM"/>
+        <parameter key="sheet_name" value="RapidMiner Data"/>
+        <parameter key="date_format" value="yyyy-MM-dd HH:mm:ss"/>
+        <parameter key="number_format" value="#.0"/>
+      </operator>
+      <connect from_op="Read Excel" from_port="output" to_op="Union" to_port="example set 1"/>
+      <connect from_op="Read Excel (2)" from_port="output" to_op="Union" to_port="example set 2"/>
+      <connect from_op="Union" from_port="union" to_op="Union (10)" to_port="example set 1"/>
+      <connect from_op="Read Excel (4)" from_port="output" to_op="Union (2)" to_port="example set 1"/>
+      <connect from_op="Read Excel (5)" from_port="output" to_op="Union (2)" to_port="example set 2"/>
+      <connect from_op="Union (2)" from_port="union" to_op="Union (10)" to_port="example set 2"/>
+      <connect from_op="Read Excel (6)" from_port="output" to_op="Union (3)" to_port="example set 1"/>
+      <connect from_op="Read Excel (7)" from_port="output" to_op="Union (3)" to_port="example set 2"/>
+      <connect from_op="Union (3)" from_port="union" to_op="Union (9)" to_port="example set 1"/>
+      <connect from_op="Read Excel (8)" from_port="output" to_op="Union (4)" to_port="example set 1"/>
+      <connect from_op="Read Excel (9)" from_port="output" to_op="Union (4)" to_port="example set 2"/>
+      <connect from_op="Union (4)" from_port="union" to_op="Union (9)" to_port="example set 2"/>
+      <connect from_op="Union (9)" from_port="union" to_op="Union (7)" to_port="example set 2"/>
+      <connect from_op="Read Excel (10)" from_port="output" to_op="Union (5)" to_port="example set 1"/>
+      <connect from_op="Read Excel (11)" from_port="output" to_op="Union (5)" to_port="example set 2"/>
+      <connect from_op="Union (5)" from_port="union" to_op="Union (8)" to_port="example set 1"/>
+      <connect from_op="Read Excel (12)" from_port="output" to_op="Union (6)" to_port="example set 2"/>
+      <connect from_op="Read Excel (13)" from_port="output" to_op="Union (6)" to_port="example set 1"/>
+      <connect from_op="Union (6)" from_port="union" to_op="Union (8)" to_port="example set 2"/>
+      <connect from_op="Read Excel (14)" from_port="output" to_op="Union (11)" to_port="example set 2"/>
+      <connect from_op="Union (8)" from_port="union" to_op="Union (11)" to_port="example set 1"/>
+      <connect from_op="Union (11)" from_port="union" to_op="Union (12)" to_port="example set 2"/>
+      <connect from_op="Union (10)" from_port="union" to_op="Union (7)" to_port="example set 1"/>
+      <connect from_op="Union (7)" from_port="union" to_op="Union (12)" to_port="example set 1"/>
+      <connect from_op="Union (12)" from_port="union" to_op="Sort" to_port="example set input"/>
+      <connect from_op="Sort" from_port="example set output" to_op="Filter Examples" to_port="example set input"/>
+      <connect from_op="Filter Examples" from_port="example set output" to_op="Generate Attributes" to_port="example set input"/>
+      <connect from_op="Generate Attributes" from_port="example set output" to_op="Write Excel" to_port="input"/>
+      <connect from_op="Write Excel" from_port="through" to_port="result 1"/>
+      <portSpacing port="source_input 1" spacing="0"/>
+      <portSpacing port="sink_result 1" spacing="0"/>
+      <portSpacing port="sink_result 2" spacing="0"/>
+    </process>
+  </operator>
+</process>
