@@ -13,7 +13,7 @@
     <parameter key="encoding" value="SYSTEM"/>
     <process expanded="true">
       <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (2)" width="90" x="112" y="136">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\5-Cuerpo-Entrenamiento.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\5-Cuerpo-Entrenamiento.xlsx"/>
         <parameter key="sheet_selection" value="sheet number"/>
         <parameter key="sheet_number" value="1"/>
         <parameter key="imported_cell_range" value="A1"/>
@@ -211,7 +211,7 @@
         <parameter key="use_absolute_weights" value="true"/>
       </operator>
       <operator activated="true" class="write_excel" compatibility="9.2.001" expanded="true" height="82" name="Write Excel (2)" width="90" x="1854" y="136">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\Salida\DatosModelo002.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\Salida\DatosModelo002.xlsx"/>
         <parameter key="file_format" value="xlsx"/>
         <parameter key="encoding" value="SYSTEM"/>
         <parameter key="sheet_name" value="RapidMiner Data"/>
@@ -428,7 +428,7 @@
         <parameter key="use_absolute_weights" value="true"/>
       </operator>
       <operator activated="false" class="write_excel" compatibility="9.2.001" expanded="true" height="82" name="Write Excel (3)" width="90" x="1854" y="340">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\Salida\DatosModelo003.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\Salida\DatosModelo003.xlsx"/>
         <parameter key="file_format" value="xlsx"/>
         <parameter key="encoding" value="SYSTEM"/>
         <parameter key="sheet_name" value="RapidMiner Data"/>
@@ -645,7 +645,7 @@
         <parameter key="use_absolute_weights" value="true"/>
       </operator>
       <operator activated="false" class="write_excel" compatibility="9.2.001" expanded="true" height="82" name="Write Excel (4)" width="90" x="1854" y="544">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\Salida\DatosModelo004.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\Salida\DatosModelo004.xlsx"/>
         <parameter key="file_format" value="xlsx"/>
         <parameter key="encoding" value="SYSTEM"/>
         <parameter key="sheet_name" value="RapidMiner Data"/>
@@ -862,7 +862,7 @@
         <parameter key="use_absolute_weights" value="true"/>
       </operator>
       <operator activated="false" class="write_excel" compatibility="9.2.001" expanded="true" height="82" name="Write Excel (5)" width="90" x="1854" y="799">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\Salida\DatosModelo005.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\Salida\DatosModelo005.xlsx"/>
         <parameter key="file_format" value="xlsx"/>
         <parameter key="encoding" value="SYSTEM"/>
         <parameter key="sheet_name" value="RapidMiner Data"/>
@@ -1079,7 +1079,7 @@
         <parameter key="use_absolute_weights" value="true"/>
       </operator>
       <operator activated="false" class="write_excel" compatibility="9.2.001" expanded="true" height="82" name="Write Excel (6)" width="90" x="1854" y="1003">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\Salida\DatosModelo006.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\Salida\DatosModelo006.xlsx"/>
         <parameter key="file_format" value="xlsx"/>
         <parameter key="encoding" value="SYSTEM"/>
         <parameter key="sheet_name" value="RapidMiner Data"/>
@@ -1296,7 +1296,7 @@
         <parameter key="use_absolute_weights" value="true"/>
       </operator>
       <operator activated="false" class="write_excel" compatibility="9.2.001" expanded="true" height="82" name="Write Excel (7)" width="90" x="1854" y="1258">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\Salida\DatosModelo007.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\Salida\DatosModelo007.xlsx"/>
         <parameter key="file_format" value="xlsx"/>
         <parameter key="encoding" value="SYSTEM"/>
         <parameter key="sheet_name" value="RapidMiner Data"/>
@@ -1513,7 +1513,7 @@
         <parameter key="use_absolute_weights" value="true"/>
       </operator>
       <operator activated="false" class="write_excel" compatibility="9.2.001" expanded="true" height="82" name="Write Excel (8)" width="90" x="1854" y="1513">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\Salida\DatosModelo008.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\Salida\DatosModelo008.xlsx"/>
         <parameter key="file_format" value="xlsx"/>
         <parameter key="encoding" value="SYSTEM"/>
         <parameter key="sheet_name" value="RapidMiner Data"/>
@@ -1730,658 +1730,7 @@
         <parameter key="use_absolute_weights" value="true"/>
       </operator>
       <operator activated="false" class="write_excel" compatibility="9.2.001" expanded="true" height="82" name="Write Excel (9)" width="90" x="1854" y="1768">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\Salida\DatosModelo009.xlsx"/>
-        <parameter key="file_format" value="xlsx"/>
-        <parameter key="encoding" value="SYSTEM"/>
-        <parameter key="sheet_name" value="RapidMiner Data"/>
-        <parameter key="date_format" value="yyyy-MM-dd HH:mm:ss"/>
-        <parameter key="number_format" value="#.0"/>
-      </operator>
-      <operator activated="false" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (10)" width="90" x="112" y="2023">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\5-Cuerpo-Entrenamiento.xlsx"/>
-        <parameter key="sheet_selection" value="sheet number"/>
-        <parameter key="sheet_number" value="1"/>
-        <parameter key="imported_cell_range" value="A1"/>
-        <parameter key="encoding" value="SYSTEM"/>
-        <parameter key="first_row_as_names" value="true"/>
-        <list key="annotations"/>
-        <parameter key="date_format" value=""/>
-        <parameter key="time_zone" value="SYSTEM"/>
-        <parameter key="locale" value="English (United States)"/>
-        <parameter key="read_all_values_as_polynominal" value="false"/>
-        <list key="data_set_meta_data_information">
-          <parameter key="0" value="Cuerpo.true.text.attribute"/>
-          <parameter key="1" value="Calificacion.true.real.attribute"/>
-          <parameter key="2" value="Etiqueta.true.polynominal.label"/>
-        </list>
-        <parameter key="read_not_matching_values_as_missings" value="false"/>
-        <parameter key="datamanagement" value="double_array"/>
-        <parameter key="data_management" value="auto"/>
-      </operator>
-      <operator activated="false" class="shuffle" compatibility="9.2.001" expanded="true" height="82" name="Shuffle (10)" width="90" x="246" y="2023">
-        <parameter key="use_local_random_seed" value="false"/>
-        <parameter key="local_random_seed" value="1992"/>
-      </operator>
-      <operator activated="false" class="select_attributes" compatibility="9.2.001" expanded="true" height="82" name="Select Attributes (10)" width="90" x="380" y="2023">
-        <parameter key="attribute_filter_type" value="subset"/>
-        <parameter key="attribute" value=""/>
-        <parameter key="attributes" value="Cuerpo|Etiqueta"/>
-        <parameter key="use_except_expression" value="false"/>
-        <parameter key="value_type" value="attribute_value"/>
-        <parameter key="use_value_type_exception" value="false"/>
-        <parameter key="except_value_type" value="time"/>
-        <parameter key="block_type" value="attribute_block"/>
-        <parameter key="use_block_type_exception" value="false"/>
-        <parameter key="except_block_type" value="value_matrix_row_start"/>
-        <parameter key="invert_selection" value="false"/>
-        <parameter key="include_special_attributes" value="false"/>
-        <description align="center" color="transparent" colored="false" width="126">Selecciono unicamente el Cuerpo para Procesar</description>
-      </operator>
-      <operator activated="false" class="replace" compatibility="9.2.001" expanded="true" height="82" name="Replace (57)" width="90" x="514" y="2023">
-        <parameter key="attribute_filter_type" value="all"/>
-        <parameter key="attribute" value=""/>
-        <parameter key="attributes" value=""/>
-        <parameter key="use_except_expression" value="false"/>
-        <parameter key="value_type" value="nominal"/>
-        <parameter key="use_value_type_exception" value="false"/>
-        <parameter key="except_value_type" value="file_path"/>
-        <parameter key="block_type" value="single_value"/>
-        <parameter key="use_block_type_exception" value="false"/>
-        <parameter key="except_block_type" value="single_value"/>
-        <parameter key="invert_selection" value="false"/>
-        <parameter key="include_special_attributes" value="false"/>
-        <parameter key="replace_what" value="&amp;nbsp"/>
-      </operator>
-      <operator activated="false" class="replace" compatibility="9.2.001" expanded="true" height="82" name="Replace (58)" width="90" x="648" y="2023">
-        <parameter key="attribute_filter_type" value="all"/>
-        <parameter key="attribute" value=""/>
-        <parameter key="attributes" value=""/>
-        <parameter key="use_except_expression" value="false"/>
-        <parameter key="value_type" value="nominal"/>
-        <parameter key="use_value_type_exception" value="false"/>
-        <parameter key="except_value_type" value="file_path"/>
-        <parameter key="block_type" value="single_value"/>
-        <parameter key="use_block_type_exception" value="false"/>
-        <parameter key="except_block_type" value="single_value"/>
-        <parameter key="invert_selection" value="false"/>
-        <parameter key="include_special_attributes" value="false"/>
-        <parameter key="replace_what" value="&lt;[!-; ?-■=:,.…-]+&gt;"/>
-      </operator>
-      <operator activated="false" class="replace" compatibility="9.2.001" expanded="true" height="82" name="Replace (59)" width="90" x="782" y="2023">
-        <parameter key="attribute_filter_type" value="all"/>
-        <parameter key="attribute" value=""/>
-        <parameter key="attributes" value=""/>
-        <parameter key="use_except_expression" value="false"/>
-        <parameter key="value_type" value="nominal"/>
-        <parameter key="use_value_type_exception" value="false"/>
-        <parameter key="except_value_type" value="file_path"/>
-        <parameter key="block_type" value="single_value"/>
-        <parameter key="use_block_type_exception" value="false"/>
-        <parameter key="except_block_type" value="single_value"/>
-        <parameter key="invert_selection" value="false"/>
-        <parameter key="include_special_attributes" value="false"/>
-        <parameter key="replace_what" value="Story:"/>
-      </operator>
-      <operator activated="false" class="replace" compatibility="9.2.001" expanded="true" height="82" name="Replace (60)" width="90" x="916" y="2023">
-        <parameter key="attribute_filter_type" value="all"/>
-        <parameter key="attribute" value=""/>
-        <parameter key="attributes" value=""/>
-        <parameter key="use_except_expression" value="false"/>
-        <parameter key="value_type" value="nominal"/>
-        <parameter key="use_value_type_exception" value="false"/>
-        <parameter key="except_value_type" value="file_path"/>
-        <parameter key="block_type" value="single_value"/>
-        <parameter key="use_block_type_exception" value="false"/>
-        <parameter key="except_block_type" value="single_value"/>
-        <parameter key="invert_selection" value="false"/>
-        <parameter key="include_special_attributes" value="false"/>
-        <parameter key="replace_what" value="STORY"/>
-      </operator>
-      <operator activated="false" class="replace" compatibility="9.2.001" expanded="true" height="82" name="Replace (61)" width="90" x="1050" y="2023">
-        <parameter key="attribute_filter_type" value="all"/>
-        <parameter key="attribute" value=""/>
-        <parameter key="attributes" value=""/>
-        <parameter key="use_except_expression" value="false"/>
-        <parameter key="value_type" value="nominal"/>
-        <parameter key="use_value_type_exception" value="false"/>
-        <parameter key="except_value_type" value="file_path"/>
-        <parameter key="block_type" value="single_value"/>
-        <parameter key="use_block_type_exception" value="false"/>
-        <parameter key="except_block_type" value="single_value"/>
-        <parameter key="invert_selection" value="false"/>
-        <parameter key="include_special_attributes" value="false"/>
-        <parameter key="replace_what" value="Review"/>
-      </operator>
-      <operator activated="false" class="replace" compatibility="9.2.001" expanded="true" height="82" name="Replace (62)" width="90" x="1184" y="2023">
-        <parameter key="attribute_filter_type" value="all"/>
-        <parameter key="attribute" value=""/>
-        <parameter key="attributes" value=""/>
-        <parameter key="use_except_expression" value="false"/>
-        <parameter key="value_type" value="nominal"/>
-        <parameter key="use_value_type_exception" value="false"/>
-        <parameter key="except_value_type" value="file_path"/>
-        <parameter key="block_type" value="single_value"/>
-        <parameter key="use_block_type_exception" value="false"/>
-        <parameter key="except_block_type" value="single_value"/>
-        <parameter key="invert_selection" value="false"/>
-        <parameter key="include_special_attributes" value="false"/>
-        <parameter key="replace_what" value="REVIEW"/>
-      </operator>
-      <operator activated="false" class="replace" compatibility="9.2.001" expanded="true" height="82" name="Replace (63)" width="90" x="1318" y="2023">
-        <parameter key="attribute_filter_type" value="all"/>
-        <parameter key="attribute" value=""/>
-        <parameter key="attributes" value=""/>
-        <parameter key="use_except_expression" value="false"/>
-        <parameter key="value_type" value="nominal"/>
-        <parameter key="use_value_type_exception" value="false"/>
-        <parameter key="except_value_type" value="file_path"/>
-        <parameter key="block_type" value="single_value"/>
-        <parameter key="use_block_type_exception" value="false"/>
-        <parameter key="except_block_type" value="single_value"/>
-        <parameter key="invert_selection" value="false"/>
-        <parameter key="include_special_attributes" value="false"/>
-        <parameter key="replace_what" value=":"/>
-      </operator>
-      <operator activated="false" class="text:process_document_from_data" compatibility="8.2.000" expanded="true" height="82" name="Process Documents from Data (10)" width="90" x="1452" y="2023">
-        <parameter key="create_word_vector" value="true"/>
-        <parameter key="vector_creation" value="TF-IDF"/>
-        <parameter key="add_meta_information" value="true"/>
-        <parameter key="keep_text" value="false"/>
-        <parameter key="prune_method" value="none"/>
-        <parameter key="prune_below_percent" value="3.0"/>
-        <parameter key="prune_above_percent" value="30.0"/>
-        <parameter key="prune_below_rank" value="0.05"/>
-        <parameter key="prune_above_rank" value="0.95"/>
-        <parameter key="datamanagement" value="double_sparse_array"/>
-        <parameter key="data_management" value="auto"/>
-        <parameter key="select_attributes_and_weights" value="false"/>
-        <list key="specify_weights"/>
-        <process expanded="true">
-          <operator activated="false" class="web:extract_html_text_content" compatibility="9.0.000" expanded="true" height="68" name="Extract Content (10)" width="90" x="112" y="187">
-            <parameter key="extract_content" value="true"/>
-            <parameter key="minimum_text_block_length" value="3"/>
-            <parameter key="override_content_type_information" value="true"/>
-            <parameter key="neglegt_span_tags" value="true"/>
-            <parameter key="neglect_p_tags" value="true"/>
-            <parameter key="neglect_b_tags" value="true"/>
-            <parameter key="neglect_i_tags" value="true"/>
-            <parameter key="neglect_br_tags" value="true"/>
-            <parameter key="ignore_non_html_tags" value="true"/>
-          </operator>
-          <operator activated="true" class="text:transform_cases" compatibility="8.2.000" expanded="true" height="68" name="Transform Cases (10)" width="90" x="179" y="34">
-            <parameter key="transform_to" value="lower case"/>
-          </operator>
-          <operator activated="true" class="text:tokenize" compatibility="8.2.000" expanded="true" height="68" name="Tokenize (10)" width="90" x="313" y="34">
-            <parameter key="mode" value="non letters"/>
-            <parameter key="characters" value=".:"/>
-            <parameter key="language" value="English"/>
-            <parameter key="max_token_length" value="3"/>
-          </operator>
-          <operator activated="true" class="text:filter_stopwords_english" compatibility="8.2.000" expanded="true" height="68" name="Filter Stopwords (10)" width="90" x="447" y="34"/>
-          <operator activated="true" class="text:stem_porter" compatibility="8.2.000" expanded="true" height="68" name="Stem (10)" width="90" x="581" y="34"/>
-          <connect from_port="document" to_op="Transform Cases (10)" to_port="document"/>
-          <connect from_op="Transform Cases (10)" from_port="document" to_op="Tokenize (10)" to_port="document"/>
-          <connect from_op="Tokenize (10)" from_port="document" to_op="Filter Stopwords (10)" to_port="document"/>
-          <connect from_op="Filter Stopwords (10)" from_port="document" to_op="Stem (10)" to_port="document"/>
-          <connect from_op="Stem (10)" from_port="document" to_port="document 1"/>
-          <portSpacing port="source_document" spacing="0"/>
-          <portSpacing port="sink_document 1" spacing="0"/>
-          <portSpacing port="sink_document 2" spacing="0"/>
-        </process>
-        <description align="center" color="transparent" colored="false" width="126">Proceso datoss, elimino datos extras, sdatos no umericos, datos con formato html, etc</description>
-      </operator>
-      <operator activated="false" class="store" compatibility="9.2.001" expanded="true" height="68" name="Store (10)" width="90" x="1586" y="2125">
-        <parameter key="repository_entry" value="//Local Repository/Final/diccionarioTrabajoFinal01"/>
-      </operator>
-      <operator activated="false" class="weight_by_information_gain" compatibility="9.2.001" expanded="true" height="82" name="Weight by Information Gain (10)" width="90" x="1586" y="2023">
-        <parameter key="normalize_weights" value="false"/>
-        <parameter key="sort_weights" value="true"/>
-        <parameter key="sort_direction" value="ascending"/>
-      </operator>
-      <operator activated="false" class="select_by_weights" compatibility="9.2.001" expanded="true" height="103" name="Select by Weights (10)" width="90" x="1720" y="2023">
-        <parameter key="weight_relation" value="greater equals"/>
-        <parameter key="weight" value="0.009"/>
-        <parameter key="k" value="10"/>
-        <parameter key="p" value="0.5"/>
-        <parameter key="deselect_unknown" value="true"/>
-        <parameter key="use_absolute_weights" value="true"/>
-      </operator>
-      <operator activated="false" class="write_excel" compatibility="9.2.001" expanded="true" height="82" name="Write Excel (10)" width="90" x="1854" y="2023">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\Salida\DatosModelo01.xlsx"/>
-        <parameter key="file_format" value="xlsx"/>
-        <parameter key="encoding" value="SYSTEM"/>
-        <parameter key="sheet_name" value="RapidMiner Data"/>
-        <parameter key="date_format" value="yyyy-MM-dd HH:mm:ss"/>
-        <parameter key="number_format" value="#.0"/>
-      </operator>
-      <operator activated="false" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (11)" width="90" x="112" y="2278">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\5-Cuerpo-Entrenamiento.xlsx"/>
-        <parameter key="sheet_selection" value="sheet number"/>
-        <parameter key="sheet_number" value="1"/>
-        <parameter key="imported_cell_range" value="A1"/>
-        <parameter key="encoding" value="SYSTEM"/>
-        <parameter key="first_row_as_names" value="true"/>
-        <list key="annotations"/>
-        <parameter key="date_format" value=""/>
-        <parameter key="time_zone" value="SYSTEM"/>
-        <parameter key="locale" value="English (United States)"/>
-        <parameter key="read_all_values_as_polynominal" value="false"/>
-        <list key="data_set_meta_data_information">
-          <parameter key="0" value="Cuerpo.true.text.attribute"/>
-          <parameter key="1" value="Calificacion.true.real.attribute"/>
-          <parameter key="2" value="Etiqueta.true.polynominal.label"/>
-        </list>
-        <parameter key="read_not_matching_values_as_missings" value="false"/>
-        <parameter key="datamanagement" value="double_array"/>
-        <parameter key="data_management" value="auto"/>
-      </operator>
-      <operator activated="false" class="shuffle" compatibility="9.2.001" expanded="true" height="82" name="Shuffle (11)" width="90" x="246" y="2278">
-        <parameter key="use_local_random_seed" value="false"/>
-        <parameter key="local_random_seed" value="1992"/>
-      </operator>
-      <operator activated="false" class="select_attributes" compatibility="9.2.001" expanded="true" height="82" name="Select Attributes (11)" width="90" x="380" y="2278">
-        <parameter key="attribute_filter_type" value="subset"/>
-        <parameter key="attribute" value=""/>
-        <parameter key="attributes" value="Cuerpo|Etiqueta"/>
-        <parameter key="use_except_expression" value="false"/>
-        <parameter key="value_type" value="attribute_value"/>
-        <parameter key="use_value_type_exception" value="false"/>
-        <parameter key="except_value_type" value="time"/>
-        <parameter key="block_type" value="attribute_block"/>
-        <parameter key="use_block_type_exception" value="false"/>
-        <parameter key="except_block_type" value="value_matrix_row_start"/>
-        <parameter key="invert_selection" value="false"/>
-        <parameter key="include_special_attributes" value="false"/>
-        <description align="center" color="transparent" colored="false" width="126">Selecciono unicamente el Cuerpo para Procesar</description>
-      </operator>
-      <operator activated="false" class="replace" compatibility="9.2.001" expanded="true" height="82" name="Replace (64)" width="90" x="514" y="2278">
-        <parameter key="attribute_filter_type" value="all"/>
-        <parameter key="attribute" value=""/>
-        <parameter key="attributes" value=""/>
-        <parameter key="use_except_expression" value="false"/>
-        <parameter key="value_type" value="nominal"/>
-        <parameter key="use_value_type_exception" value="false"/>
-        <parameter key="except_value_type" value="file_path"/>
-        <parameter key="block_type" value="single_value"/>
-        <parameter key="use_block_type_exception" value="false"/>
-        <parameter key="except_block_type" value="single_value"/>
-        <parameter key="invert_selection" value="false"/>
-        <parameter key="include_special_attributes" value="false"/>
-        <parameter key="replace_what" value="&amp;nbsp"/>
-      </operator>
-      <operator activated="false" class="replace" compatibility="9.2.001" expanded="true" height="82" name="Replace (65)" width="90" x="648" y="2278">
-        <parameter key="attribute_filter_type" value="all"/>
-        <parameter key="attribute" value=""/>
-        <parameter key="attributes" value=""/>
-        <parameter key="use_except_expression" value="false"/>
-        <parameter key="value_type" value="nominal"/>
-        <parameter key="use_value_type_exception" value="false"/>
-        <parameter key="except_value_type" value="file_path"/>
-        <parameter key="block_type" value="single_value"/>
-        <parameter key="use_block_type_exception" value="false"/>
-        <parameter key="except_block_type" value="single_value"/>
-        <parameter key="invert_selection" value="false"/>
-        <parameter key="include_special_attributes" value="false"/>
-        <parameter key="replace_what" value="&lt;[!-; ?-■=:,.…-]+&gt;"/>
-      </operator>
-      <operator activated="false" class="replace" compatibility="9.2.001" expanded="true" height="82" name="Replace (66)" width="90" x="782" y="2278">
-        <parameter key="attribute_filter_type" value="all"/>
-        <parameter key="attribute" value=""/>
-        <parameter key="attributes" value=""/>
-        <parameter key="use_except_expression" value="false"/>
-        <parameter key="value_type" value="nominal"/>
-        <parameter key="use_value_type_exception" value="false"/>
-        <parameter key="except_value_type" value="file_path"/>
-        <parameter key="block_type" value="single_value"/>
-        <parameter key="use_block_type_exception" value="false"/>
-        <parameter key="except_block_type" value="single_value"/>
-        <parameter key="invert_selection" value="false"/>
-        <parameter key="include_special_attributes" value="false"/>
-        <parameter key="replace_what" value="Story:"/>
-      </operator>
-      <operator activated="false" class="replace" compatibility="9.2.001" expanded="true" height="82" name="Replace (67)" width="90" x="916" y="2278">
-        <parameter key="attribute_filter_type" value="all"/>
-        <parameter key="attribute" value=""/>
-        <parameter key="attributes" value=""/>
-        <parameter key="use_except_expression" value="false"/>
-        <parameter key="value_type" value="nominal"/>
-        <parameter key="use_value_type_exception" value="false"/>
-        <parameter key="except_value_type" value="file_path"/>
-        <parameter key="block_type" value="single_value"/>
-        <parameter key="use_block_type_exception" value="false"/>
-        <parameter key="except_block_type" value="single_value"/>
-        <parameter key="invert_selection" value="false"/>
-        <parameter key="include_special_attributes" value="false"/>
-        <parameter key="replace_what" value="STORY"/>
-      </operator>
-      <operator activated="false" class="replace" compatibility="9.2.001" expanded="true" height="82" name="Replace (68)" width="90" x="1050" y="2278">
-        <parameter key="attribute_filter_type" value="all"/>
-        <parameter key="attribute" value=""/>
-        <parameter key="attributes" value=""/>
-        <parameter key="use_except_expression" value="false"/>
-        <parameter key="value_type" value="nominal"/>
-        <parameter key="use_value_type_exception" value="false"/>
-        <parameter key="except_value_type" value="file_path"/>
-        <parameter key="block_type" value="single_value"/>
-        <parameter key="use_block_type_exception" value="false"/>
-        <parameter key="except_block_type" value="single_value"/>
-        <parameter key="invert_selection" value="false"/>
-        <parameter key="include_special_attributes" value="false"/>
-        <parameter key="replace_what" value="Review"/>
-      </operator>
-      <operator activated="false" class="replace" compatibility="9.2.001" expanded="true" height="82" name="Replace (69)" width="90" x="1184" y="2278">
-        <parameter key="attribute_filter_type" value="all"/>
-        <parameter key="attribute" value=""/>
-        <parameter key="attributes" value=""/>
-        <parameter key="use_except_expression" value="false"/>
-        <parameter key="value_type" value="nominal"/>
-        <parameter key="use_value_type_exception" value="false"/>
-        <parameter key="except_value_type" value="file_path"/>
-        <parameter key="block_type" value="single_value"/>
-        <parameter key="use_block_type_exception" value="false"/>
-        <parameter key="except_block_type" value="single_value"/>
-        <parameter key="invert_selection" value="false"/>
-        <parameter key="include_special_attributes" value="false"/>
-        <parameter key="replace_what" value="REVIEW"/>
-      </operator>
-      <operator activated="false" class="replace" compatibility="9.2.001" expanded="true" height="82" name="Replace (70)" width="90" x="1318" y="2278">
-        <parameter key="attribute_filter_type" value="all"/>
-        <parameter key="attribute" value=""/>
-        <parameter key="attributes" value=""/>
-        <parameter key="use_except_expression" value="false"/>
-        <parameter key="value_type" value="nominal"/>
-        <parameter key="use_value_type_exception" value="false"/>
-        <parameter key="except_value_type" value="file_path"/>
-        <parameter key="block_type" value="single_value"/>
-        <parameter key="use_block_type_exception" value="false"/>
-        <parameter key="except_block_type" value="single_value"/>
-        <parameter key="invert_selection" value="false"/>
-        <parameter key="include_special_attributes" value="false"/>
-        <parameter key="replace_what" value=":"/>
-      </operator>
-      <operator activated="false" class="text:process_document_from_data" compatibility="8.2.000" expanded="true" height="82" name="Process Documents from Data (11)" width="90" x="1452" y="2278">
-        <parameter key="create_word_vector" value="true"/>
-        <parameter key="vector_creation" value="TF-IDF"/>
-        <parameter key="add_meta_information" value="true"/>
-        <parameter key="keep_text" value="false"/>
-        <parameter key="prune_method" value="none"/>
-        <parameter key="prune_below_percent" value="3.0"/>
-        <parameter key="prune_above_percent" value="30.0"/>
-        <parameter key="prune_below_rank" value="0.05"/>
-        <parameter key="prune_above_rank" value="0.95"/>
-        <parameter key="datamanagement" value="double_sparse_array"/>
-        <parameter key="data_management" value="auto"/>
-        <parameter key="select_attributes_and_weights" value="false"/>
-        <list key="specify_weights"/>
-        <process expanded="true">
-          <operator activated="false" class="web:extract_html_text_content" compatibility="9.0.000" expanded="true" height="68" name="Extract Content (11)" width="90" x="112" y="187">
-            <parameter key="extract_content" value="true"/>
-            <parameter key="minimum_text_block_length" value="3"/>
-            <parameter key="override_content_type_information" value="true"/>
-            <parameter key="neglegt_span_tags" value="true"/>
-            <parameter key="neglect_p_tags" value="true"/>
-            <parameter key="neglect_b_tags" value="true"/>
-            <parameter key="neglect_i_tags" value="true"/>
-            <parameter key="neglect_br_tags" value="true"/>
-            <parameter key="ignore_non_html_tags" value="true"/>
-          </operator>
-          <operator activated="true" class="text:transform_cases" compatibility="8.2.000" expanded="true" height="68" name="Transform Cases (11)" width="90" x="179" y="34">
-            <parameter key="transform_to" value="lower case"/>
-          </operator>
-          <operator activated="true" class="text:tokenize" compatibility="8.2.000" expanded="true" height="68" name="Tokenize (11)" width="90" x="313" y="34">
-            <parameter key="mode" value="non letters"/>
-            <parameter key="characters" value=".:"/>
-            <parameter key="language" value="English"/>
-            <parameter key="max_token_length" value="3"/>
-          </operator>
-          <operator activated="true" class="text:filter_stopwords_english" compatibility="8.2.000" expanded="true" height="68" name="Filter Stopwords (11)" width="90" x="447" y="34"/>
-          <operator activated="true" class="text:stem_porter" compatibility="8.2.000" expanded="true" height="68" name="Stem (11)" width="90" x="581" y="34"/>
-          <connect from_port="document" to_op="Transform Cases (11)" to_port="document"/>
-          <connect from_op="Transform Cases (11)" from_port="document" to_op="Tokenize (11)" to_port="document"/>
-          <connect from_op="Tokenize (11)" from_port="document" to_op="Filter Stopwords (11)" to_port="document"/>
-          <connect from_op="Filter Stopwords (11)" from_port="document" to_op="Stem (11)" to_port="document"/>
-          <connect from_op="Stem (11)" from_port="document" to_port="document 1"/>
-          <portSpacing port="source_document" spacing="0"/>
-          <portSpacing port="sink_document 1" spacing="0"/>
-          <portSpacing port="sink_document 2" spacing="0"/>
-        </process>
-        <description align="center" color="transparent" colored="false" width="126">Proceso datoss, elimino datos extras, sdatos no umericos, datos con formato html, etc</description>
-      </operator>
-      <operator activated="false" class="store" compatibility="9.2.001" expanded="true" height="68" name="Store (11)" width="90" x="1586" y="2380">
-        <parameter key="repository_entry" value="//Local Repository/Final/diccionarioTrabajoFinal02"/>
-      </operator>
-      <operator activated="false" class="weight_by_information_gain" compatibility="9.2.001" expanded="true" height="82" name="Weight by Information Gain (11)" width="90" x="1586" y="2278">
-        <parameter key="normalize_weights" value="false"/>
-        <parameter key="sort_weights" value="true"/>
-        <parameter key="sort_direction" value="ascending"/>
-      </operator>
-      <operator activated="false" class="select_by_weights" compatibility="9.2.001" expanded="true" height="103" name="Select by Weights (11)" width="90" x="1720" y="2278">
-        <parameter key="weight_relation" value="greater equals"/>
-        <parameter key="weight" value="0.009"/>
-        <parameter key="k" value="10"/>
-        <parameter key="p" value="0.5"/>
-        <parameter key="deselect_unknown" value="true"/>
-        <parameter key="use_absolute_weights" value="true"/>
-      </operator>
-      <operator activated="false" class="write_excel" compatibility="9.2.001" expanded="true" height="82" name="Write Excel (11)" width="90" x="1854" y="2278">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\Salida\DatosModelo02.xlsx"/>
-        <parameter key="file_format" value="xlsx"/>
-        <parameter key="encoding" value="SYSTEM"/>
-        <parameter key="sheet_name" value="RapidMiner Data"/>
-        <parameter key="date_format" value="yyyy-MM-dd HH:mm:ss"/>
-        <parameter key="number_format" value="#.0"/>
-      </operator>
-      <operator activated="false" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (12)" width="90" x="112" y="2533">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\5-Cuerpo-Entrenamiento.xlsx"/>
-        <parameter key="sheet_selection" value="sheet number"/>
-        <parameter key="sheet_number" value="1"/>
-        <parameter key="imported_cell_range" value="A1"/>
-        <parameter key="encoding" value="SYSTEM"/>
-        <parameter key="first_row_as_names" value="true"/>
-        <list key="annotations"/>
-        <parameter key="date_format" value=""/>
-        <parameter key="time_zone" value="SYSTEM"/>
-        <parameter key="locale" value="English (United States)"/>
-        <parameter key="read_all_values_as_polynominal" value="false"/>
-        <list key="data_set_meta_data_information">
-          <parameter key="0" value="Cuerpo.true.text.attribute"/>
-          <parameter key="1" value="Calificacion.true.real.attribute"/>
-          <parameter key="2" value="Etiqueta.true.polynominal.label"/>
-        </list>
-        <parameter key="read_not_matching_values_as_missings" value="false"/>
-        <parameter key="datamanagement" value="double_array"/>
-        <parameter key="data_management" value="auto"/>
-      </operator>
-      <operator activated="false" class="shuffle" compatibility="9.2.001" expanded="true" height="82" name="Shuffle (12)" width="90" x="246" y="2533">
-        <parameter key="use_local_random_seed" value="false"/>
-        <parameter key="local_random_seed" value="1992"/>
-      </operator>
-      <operator activated="false" class="select_attributes" compatibility="9.2.001" expanded="true" height="82" name="Select Attributes (12)" width="90" x="380" y="2533">
-        <parameter key="attribute_filter_type" value="subset"/>
-        <parameter key="attribute" value=""/>
-        <parameter key="attributes" value="Cuerpo|Etiqueta"/>
-        <parameter key="use_except_expression" value="false"/>
-        <parameter key="value_type" value="attribute_value"/>
-        <parameter key="use_value_type_exception" value="false"/>
-        <parameter key="except_value_type" value="time"/>
-        <parameter key="block_type" value="attribute_block"/>
-        <parameter key="use_block_type_exception" value="false"/>
-        <parameter key="except_block_type" value="value_matrix_row_start"/>
-        <parameter key="invert_selection" value="false"/>
-        <parameter key="include_special_attributes" value="false"/>
-        <description align="center" color="transparent" colored="false" width="126">Selecciono unicamente el Cuerpo para Procesar</description>
-      </operator>
-      <operator activated="false" class="replace" compatibility="9.2.001" expanded="true" height="82" name="Replace (71)" width="90" x="514" y="2533">
-        <parameter key="attribute_filter_type" value="all"/>
-        <parameter key="attribute" value=""/>
-        <parameter key="attributes" value=""/>
-        <parameter key="use_except_expression" value="false"/>
-        <parameter key="value_type" value="nominal"/>
-        <parameter key="use_value_type_exception" value="false"/>
-        <parameter key="except_value_type" value="file_path"/>
-        <parameter key="block_type" value="single_value"/>
-        <parameter key="use_block_type_exception" value="false"/>
-        <parameter key="except_block_type" value="single_value"/>
-        <parameter key="invert_selection" value="false"/>
-        <parameter key="include_special_attributes" value="false"/>
-        <parameter key="replace_what" value="&amp;nbsp"/>
-      </operator>
-      <operator activated="false" class="replace" compatibility="9.2.001" expanded="true" height="82" name="Replace (72)" width="90" x="648" y="2533">
-        <parameter key="attribute_filter_type" value="all"/>
-        <parameter key="attribute" value=""/>
-        <parameter key="attributes" value=""/>
-        <parameter key="use_except_expression" value="false"/>
-        <parameter key="value_type" value="nominal"/>
-        <parameter key="use_value_type_exception" value="false"/>
-        <parameter key="except_value_type" value="file_path"/>
-        <parameter key="block_type" value="single_value"/>
-        <parameter key="use_block_type_exception" value="false"/>
-        <parameter key="except_block_type" value="single_value"/>
-        <parameter key="invert_selection" value="false"/>
-        <parameter key="include_special_attributes" value="false"/>
-        <parameter key="replace_what" value="&lt;[!-; ?-■=:,.…-]+&gt;"/>
-      </operator>
-      <operator activated="false" class="replace" compatibility="9.2.001" expanded="true" height="82" name="Replace (73)" width="90" x="782" y="2533">
-        <parameter key="attribute_filter_type" value="all"/>
-        <parameter key="attribute" value=""/>
-        <parameter key="attributes" value=""/>
-        <parameter key="use_except_expression" value="false"/>
-        <parameter key="value_type" value="nominal"/>
-        <parameter key="use_value_type_exception" value="false"/>
-        <parameter key="except_value_type" value="file_path"/>
-        <parameter key="block_type" value="single_value"/>
-        <parameter key="use_block_type_exception" value="false"/>
-        <parameter key="except_block_type" value="single_value"/>
-        <parameter key="invert_selection" value="false"/>
-        <parameter key="include_special_attributes" value="false"/>
-        <parameter key="replace_what" value="Story:"/>
-      </operator>
-      <operator activated="false" class="replace" compatibility="9.2.001" expanded="true" height="82" name="Replace (74)" width="90" x="916" y="2533">
-        <parameter key="attribute_filter_type" value="all"/>
-        <parameter key="attribute" value=""/>
-        <parameter key="attributes" value=""/>
-        <parameter key="use_except_expression" value="false"/>
-        <parameter key="value_type" value="nominal"/>
-        <parameter key="use_value_type_exception" value="false"/>
-        <parameter key="except_value_type" value="file_path"/>
-        <parameter key="block_type" value="single_value"/>
-        <parameter key="use_block_type_exception" value="false"/>
-        <parameter key="except_block_type" value="single_value"/>
-        <parameter key="invert_selection" value="false"/>
-        <parameter key="include_special_attributes" value="false"/>
-        <parameter key="replace_what" value="STORY"/>
-      </operator>
-      <operator activated="false" class="replace" compatibility="9.2.001" expanded="true" height="82" name="Replace (75)" width="90" x="1050" y="2533">
-        <parameter key="attribute_filter_type" value="all"/>
-        <parameter key="attribute" value=""/>
-        <parameter key="attributes" value=""/>
-        <parameter key="use_except_expression" value="false"/>
-        <parameter key="value_type" value="nominal"/>
-        <parameter key="use_value_type_exception" value="false"/>
-        <parameter key="except_value_type" value="file_path"/>
-        <parameter key="block_type" value="single_value"/>
-        <parameter key="use_block_type_exception" value="false"/>
-        <parameter key="except_block_type" value="single_value"/>
-        <parameter key="invert_selection" value="false"/>
-        <parameter key="include_special_attributes" value="false"/>
-        <parameter key="replace_what" value="Review"/>
-      </operator>
-      <operator activated="false" class="replace" compatibility="9.2.001" expanded="true" height="82" name="Replace (76)" width="90" x="1184" y="2533">
-        <parameter key="attribute_filter_type" value="all"/>
-        <parameter key="attribute" value=""/>
-        <parameter key="attributes" value=""/>
-        <parameter key="use_except_expression" value="false"/>
-        <parameter key="value_type" value="nominal"/>
-        <parameter key="use_value_type_exception" value="false"/>
-        <parameter key="except_value_type" value="file_path"/>
-        <parameter key="block_type" value="single_value"/>
-        <parameter key="use_block_type_exception" value="false"/>
-        <parameter key="except_block_type" value="single_value"/>
-        <parameter key="invert_selection" value="false"/>
-        <parameter key="include_special_attributes" value="false"/>
-        <parameter key="replace_what" value="REVIEW"/>
-      </operator>
-      <operator activated="false" class="replace" compatibility="9.2.001" expanded="true" height="82" name="Replace (77)" width="90" x="1318" y="2533">
-        <parameter key="attribute_filter_type" value="all"/>
-        <parameter key="attribute" value=""/>
-        <parameter key="attributes" value=""/>
-        <parameter key="use_except_expression" value="false"/>
-        <parameter key="value_type" value="nominal"/>
-        <parameter key="use_value_type_exception" value="false"/>
-        <parameter key="except_value_type" value="file_path"/>
-        <parameter key="block_type" value="single_value"/>
-        <parameter key="use_block_type_exception" value="false"/>
-        <parameter key="except_block_type" value="single_value"/>
-        <parameter key="invert_selection" value="false"/>
-        <parameter key="include_special_attributes" value="false"/>
-        <parameter key="replace_what" value=":"/>
-      </operator>
-      <operator activated="false" class="text:process_document_from_data" compatibility="8.2.000" expanded="true" height="82" name="Process Documents from Data (12)" width="90" x="1452" y="2533">
-        <parameter key="create_word_vector" value="true"/>
-        <parameter key="vector_creation" value="TF-IDF"/>
-        <parameter key="add_meta_information" value="true"/>
-        <parameter key="keep_text" value="false"/>
-        <parameter key="prune_method" value="none"/>
-        <parameter key="prune_below_percent" value="3.0"/>
-        <parameter key="prune_above_percent" value="30.0"/>
-        <parameter key="prune_below_rank" value="0.05"/>
-        <parameter key="prune_above_rank" value="0.95"/>
-        <parameter key="datamanagement" value="double_sparse_array"/>
-        <parameter key="data_management" value="auto"/>
-        <parameter key="select_attributes_and_weights" value="false"/>
-        <list key="specify_weights"/>
-        <process expanded="true">
-          <operator activated="false" class="web:extract_html_text_content" compatibility="9.0.000" expanded="true" height="68" name="Extract Content (12)" width="90" x="112" y="187">
-            <parameter key="extract_content" value="true"/>
-            <parameter key="minimum_text_block_length" value="3"/>
-            <parameter key="override_content_type_information" value="true"/>
-            <parameter key="neglegt_span_tags" value="true"/>
-            <parameter key="neglect_p_tags" value="true"/>
-            <parameter key="neglect_b_tags" value="true"/>
-            <parameter key="neglect_i_tags" value="true"/>
-            <parameter key="neglect_br_tags" value="true"/>
-            <parameter key="ignore_non_html_tags" value="true"/>
-          </operator>
-          <operator activated="true" class="text:transform_cases" compatibility="8.2.000" expanded="true" height="68" name="Transform Cases (12)" width="90" x="179" y="34">
-            <parameter key="transform_to" value="lower case"/>
-          </operator>
-          <operator activated="true" class="text:tokenize" compatibility="8.2.000" expanded="true" height="68" name="Tokenize (12)" width="90" x="313" y="34">
-            <parameter key="mode" value="non letters"/>
-            <parameter key="characters" value=".:"/>
-            <parameter key="language" value="English"/>
-            <parameter key="max_token_length" value="3"/>
-          </operator>
-          <operator activated="true" class="text:filter_stopwords_english" compatibility="8.2.000" expanded="true" height="68" name="Filter Stopwords (12)" width="90" x="447" y="34"/>
-          <operator activated="true" class="text:stem_porter" compatibility="8.2.000" expanded="true" height="68" name="Stem (12)" width="90" x="581" y="34"/>
-          <connect from_port="document" to_op="Transform Cases (12)" to_port="document"/>
-          <connect from_op="Transform Cases (12)" from_port="document" to_op="Tokenize (12)" to_port="document"/>
-          <connect from_op="Tokenize (12)" from_port="document" to_op="Filter Stopwords (12)" to_port="document"/>
-          <connect from_op="Filter Stopwords (12)" from_port="document" to_op="Stem (12)" to_port="document"/>
-          <connect from_op="Stem (12)" from_port="document" to_port="document 1"/>
-          <portSpacing port="source_document" spacing="0"/>
-          <portSpacing port="sink_document 1" spacing="0"/>
-          <portSpacing port="sink_document 2" spacing="0"/>
-        </process>
-        <description align="center" color="transparent" colored="false" width="126">Proceso datoss, elimino datos extras, sdatos no umericos, datos con formato html, etc</description>
-      </operator>
-      <operator activated="false" class="store" compatibility="9.2.001" expanded="true" height="68" name="Store (12)" width="90" x="1586" y="2635">
-        <parameter key="repository_entry" value="//Local Repository/Final/diccionarioTrabajoFinal03"/>
-      </operator>
-      <operator activated="false" class="weight_by_information_gain" compatibility="9.2.001" expanded="true" height="82" name="Weight by Information Gain (12)" width="90" x="1586" y="2533">
-        <parameter key="normalize_weights" value="false"/>
-        <parameter key="sort_weights" value="true"/>
-        <parameter key="sort_direction" value="ascending"/>
-      </operator>
-      <operator activated="false" class="select_by_weights" compatibility="9.2.001" expanded="true" height="103" name="Select by Weights (12)" width="90" x="1720" y="2533">
-        <parameter key="weight_relation" value="greater equals"/>
-        <parameter key="weight" value="0.009"/>
-        <parameter key="k" value="10"/>
-        <parameter key="p" value="0.5"/>
-        <parameter key="deselect_unknown" value="true"/>
-        <parameter key="use_absolute_weights" value="true"/>
-      </operator>
-      <operator activated="false" class="write_excel" compatibility="9.2.001" expanded="true" height="82" name="Write Excel (12)" width="90" x="1854" y="2533">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\Salida\DatosModelo03.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\Salida\DatosModelo009.xlsx"/>
         <parameter key="file_format" value="xlsx"/>
         <parameter key="encoding" value="SYSTEM"/>
         <parameter key="sheet_name" value="RapidMiner Data"/>
@@ -2507,51 +1856,6 @@
       <connect from_op="Weight by Information Gain (9)" from_port="weights" to_op="Select by Weights (9)" to_port="weights"/>
       <connect from_op="Weight by Information Gain (9)" from_port="example set" to_op="Select by Weights (9)" to_port="example set input"/>
       <connect from_op="Select by Weights (9)" from_port="example set output" to_op="Write Excel (9)" to_port="input"/>
-      <connect from_op="Read Excel (10)" from_port="output" to_op="Shuffle (10)" to_port="example set input"/>
-      <connect from_op="Shuffle (10)" from_port="example set output" to_op="Select Attributes (10)" to_port="example set input"/>
-      <connect from_op="Select Attributes (10)" from_port="example set output" to_op="Replace (57)" to_port="example set input"/>
-      <connect from_op="Replace (57)" from_port="example set output" to_op="Replace (58)" to_port="example set input"/>
-      <connect from_op="Replace (58)" from_port="example set output" to_op="Replace (59)" to_port="example set input"/>
-      <connect from_op="Replace (59)" from_port="example set output" to_op="Replace (60)" to_port="example set input"/>
-      <connect from_op="Replace (60)" from_port="example set output" to_op="Replace (61)" to_port="example set input"/>
-      <connect from_op="Replace (61)" from_port="example set output" to_op="Replace (62)" to_port="example set input"/>
-      <connect from_op="Replace (62)" from_port="example set output" to_op="Replace (63)" to_port="example set input"/>
-      <connect from_op="Replace (63)" from_port="example set output" to_op="Process Documents from Data (10)" to_port="example set"/>
-      <connect from_op="Process Documents from Data (10)" from_port="example set" to_op="Weight by Information Gain (10)" to_port="example set"/>
-      <connect from_op="Process Documents from Data (10)" from_port="word list" to_op="Store (10)" to_port="input"/>
-      <connect from_op="Weight by Information Gain (10)" from_port="weights" to_op="Select by Weights (10)" to_port="weights"/>
-      <connect from_op="Weight by Information Gain (10)" from_port="example set" to_op="Select by Weights (10)" to_port="example set input"/>
-      <connect from_op="Select by Weights (10)" from_port="example set output" to_op="Write Excel (10)" to_port="input"/>
-      <connect from_op="Read Excel (11)" from_port="output" to_op="Shuffle (11)" to_port="example set input"/>
-      <connect from_op="Shuffle (11)" from_port="example set output" to_op="Select Attributes (11)" to_port="example set input"/>
-      <connect from_op="Select Attributes (11)" from_port="example set output" to_op="Replace (64)" to_port="example set input"/>
-      <connect from_op="Replace (64)" from_port="example set output" to_op="Replace (65)" to_port="example set input"/>
-      <connect from_op="Replace (65)" from_port="example set output" to_op="Replace (66)" to_port="example set input"/>
-      <connect from_op="Replace (66)" from_port="example set output" to_op="Replace (67)" to_port="example set input"/>
-      <connect from_op="Replace (67)" from_port="example set output" to_op="Replace (68)" to_port="example set input"/>
-      <connect from_op="Replace (68)" from_port="example set output" to_op="Replace (69)" to_port="example set input"/>
-      <connect from_op="Replace (69)" from_port="example set output" to_op="Replace (70)" to_port="example set input"/>
-      <connect from_op="Replace (70)" from_port="example set output" to_op="Process Documents from Data (11)" to_port="example set"/>
-      <connect from_op="Process Documents from Data (11)" from_port="example set" to_op="Weight by Information Gain (11)" to_port="example set"/>
-      <connect from_op="Process Documents from Data (11)" from_port="word list" to_op="Store (11)" to_port="input"/>
-      <connect from_op="Weight by Information Gain (11)" from_port="weights" to_op="Select by Weights (11)" to_port="weights"/>
-      <connect from_op="Weight by Information Gain (11)" from_port="example set" to_op="Select by Weights (11)" to_port="example set input"/>
-      <connect from_op="Select by Weights (11)" from_port="example set output" to_op="Write Excel (11)" to_port="input"/>
-      <connect from_op="Read Excel (12)" from_port="output" to_op="Shuffle (12)" to_port="example set input"/>
-      <connect from_op="Shuffle (12)" from_port="example set output" to_op="Select Attributes (12)" to_port="example set input"/>
-      <connect from_op="Select Attributes (12)" from_port="example set output" to_op="Replace (71)" to_port="example set input"/>
-      <connect from_op="Replace (71)" from_port="example set output" to_op="Replace (72)" to_port="example set input"/>
-      <connect from_op="Replace (72)" from_port="example set output" to_op="Replace (73)" to_port="example set input"/>
-      <connect from_op="Replace (73)" from_port="example set output" to_op="Replace (74)" to_port="example set input"/>
-      <connect from_op="Replace (74)" from_port="example set output" to_op="Replace (75)" to_port="example set input"/>
-      <connect from_op="Replace (75)" from_port="example set output" to_op="Replace (76)" to_port="example set input"/>
-      <connect from_op="Replace (76)" from_port="example set output" to_op="Replace (77)" to_port="example set input"/>
-      <connect from_op="Replace (77)" from_port="example set output" to_op="Process Documents from Data (12)" to_port="example set"/>
-      <connect from_op="Process Documents from Data (12)" from_port="example set" to_op="Weight by Information Gain (12)" to_port="example set"/>
-      <connect from_op="Process Documents from Data (12)" from_port="word list" to_op="Store (12)" to_port="input"/>
-      <connect from_op="Weight by Information Gain (12)" from_port="weights" to_op="Select by Weights (12)" to_port="weights"/>
-      <connect from_op="Weight by Information Gain (12)" from_port="example set" to_op="Select by Weights (12)" to_port="example set input"/>
-      <connect from_op="Select by Weights (12)" from_port="example set output" to_op="Write Excel (12)" to_port="input"/>
       <portSpacing port="source_input 1" spacing="0"/>
       <portSpacing port="sink_result 1" spacing="0"/>
       <description align="center" color="yellow" colored="false" height="52" resized="true" width="1400" x="74" y="32">Trata los datos de los textos, selecciona atributos, reemplaza los valores &amp;amp;nbsp, reemplaza characteres especiales, procesa los datos, verifica cuales son mejores y selecciona los que son mayores a una cifra, los separa 50% 50 para &lt;br/&gt;</description>

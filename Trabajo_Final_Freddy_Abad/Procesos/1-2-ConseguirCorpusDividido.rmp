@@ -13,7 +13,7 @@
     <parameter key="encoding" value="SYSTEM"/>
     <process expanded="true">
       <operator activated="false" class="read_csv" compatibility="9.2.001" expanded="true" height="68" name="Read CSV" width="90" x="45" y="34">
-        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Urls\2-URLsPaginas1-100.csv"/>
+        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\UrlsIn\2-URLsPaginas1-100.csv"/>
         <parameter key="column_separators" value=","/>
         <parameter key="trim_lines" value="false"/>
         <parameter key="use_quotes" value="true"/>
@@ -184,7 +184,7 @@
         <parameter key="number_format" value="#.0"/>
       </operator>
       <operator activated="false" class="read_csv" compatibility="9.2.001" expanded="true" height="68" name="Read CSV (2)" width="90" x="45" y="136">
-        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Urls\2-URLsPaginas101-200.csv"/>
+        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\UrlsIn\2-URLsPaginas101-200.csv"/>
         <parameter key="column_separators" value=","/>
         <parameter key="trim_lines" value="false"/>
         <parameter key="use_quotes" value="true"/>
@@ -214,7 +214,7 @@
         <parameter key="data_management" value="auto"/>
       </operator>
       <operator activated="false" class="read_csv" compatibility="9.2.001" expanded="true" height="68" name="Read CSV (3)" width="90" x="45" y="238">
-        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsIn\2-URLsPaginas201-300.csv"/>
+        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\UrlsIn\2-URLsPaginas201-300.csv"/>
         <parameter key="column_separators" value=","/>
         <parameter key="trim_lines" value="false"/>
         <parameter key="use_quotes" value="true"/>
@@ -244,7 +244,7 @@
         <parameter key="data_management" value="auto"/>
       </operator>
       <operator activated="false" class="read_csv" compatibility="9.2.001" expanded="true" height="68" name="Read CSV (4)" width="90" x="45" y="340">
-        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsIn\2-URLsPaginas301-400.csv"/>
+        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\UrlsIn\2-URLsPaginas301-400.csv"/>
         <parameter key="column_separators" value=","/>
         <parameter key="trim_lines" value="false"/>
         <parameter key="use_quotes" value="true"/>
@@ -274,7 +274,7 @@
         <parameter key="data_management" value="auto"/>
       </operator>
       <operator activated="false" class="read_csv" compatibility="9.2.001" expanded="true" height="68" name="Read CSV (5)" width="90" x="45" y="442">
-        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsIn\2-URLsPaginas401-500.csv"/>
+        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\UrlsIn\2-URLsPaginas401-500.csv"/>
         <parameter key="column_separators" value=","/>
         <parameter key="trim_lines" value="false"/>
         <parameter key="use_quotes" value="true"/>
@@ -304,7 +304,7 @@
         <parameter key="data_management" value="auto"/>
       </operator>
       <operator activated="false" class="read_csv" compatibility="9.2.001" expanded="true" height="68" name="Read CSV (6)" width="90" x="45" y="544">
-        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsIn\2-URLsPaginas501-600.csv"/>
+        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\UrlsIn\2-URLsPaginas501-600.csv"/>
         <parameter key="column_separators" value=","/>
         <parameter key="trim_lines" value="false"/>
         <parameter key="use_quotes" value="true"/>
@@ -334,7 +334,7 @@
         <parameter key="data_management" value="auto"/>
       </operator>
       <operator activated="false" class="read_csv" compatibility="9.2.001" expanded="true" height="68" name="Read CSV (7)" width="90" x="45" y="646">
-        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsIn\2-URLsPaginas601-700.csv"/>
+        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\UrlsIn\2-URLsPaginas601-700.csv"/>
         <parameter key="column_separators" value=","/>
         <parameter key="trim_lines" value="false"/>
         <parameter key="use_quotes" value="true"/>
@@ -364,7 +364,7 @@
         <parameter key="data_management" value="auto"/>
       </operator>
       <operator activated="false" class="read_csv" compatibility="9.2.001" expanded="true" height="68" name="Read CSV (8)" width="90" x="45" y="748">
-        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsIn\2-URLsPaginas701-800.csv"/>
+        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\UrlsIn\2-URLsPaginas701-800.csv"/>
         <parameter key="column_separators" value=","/>
         <parameter key="trim_lines" value="false"/>
         <parameter key="use_quotes" value="true"/>
@@ -394,7 +394,7 @@
         <parameter key="data_management" value="auto"/>
       </operator>
       <operator activated="false" class="read_csv" compatibility="9.2.001" expanded="true" height="68" name="Read CSV (9)" width="90" x="45" y="850">
-        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsIn\2-URLsPaginas801-900.csv"/>
+        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\UrlsIn\2-URLsPaginas801-900.csv"/>
         <parameter key="column_separators" value=","/>
         <parameter key="trim_lines" value="false"/>
         <parameter key="use_quotes" value="true"/>
@@ -424,7 +424,7 @@
         <parameter key="data_management" value="auto"/>
       </operator>
       <operator activated="false" class="read_csv" compatibility="9.2.001" expanded="true" height="68" name="Read CSV (10)" width="90" x="45" y="952">
-        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsIn\2-URLsPaginas901-1000.csv"/>
+        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\UrlsIn\2-URLsPaginas901-1000.csv"/>
         <parameter key="column_separators" value=","/>
         <parameter key="trim_lines" value="false"/>
         <parameter key="use_quotes" value="true"/>
@@ -454,7 +454,7 @@
         <parameter key="data_management" value="auto"/>
       </operator>
       <operator activated="false" class="read_csv" compatibility="9.2.001" expanded="true" height="68" name="Read CSV (11)" width="90" x="45" y="1054">
-        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsIn\2-URLsPaginas1001-1100.csv"/>
+        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\UrlsIn\2-URLsPaginas1001-1100.csv"/>
         <parameter key="column_separators" value=","/>
         <parameter key="trim_lines" value="false"/>
         <parameter key="use_quotes" value="true"/>
@@ -484,7 +484,7 @@
         <parameter key="data_management" value="auto"/>
       </operator>
       <operator activated="false" class="read_csv" compatibility="9.2.001" expanded="true" height="68" name="Read CSV (12)" width="90" x="45" y="1156">
-        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsIn\2-URLsPaginas1101-1200.csv"/>
+        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\UrlsIn\2-URLsPaginas1101-1200.csv"/>
         <parameter key="column_separators" value=","/>
         <parameter key="trim_lines" value="false"/>
         <parameter key="use_quotes" value="true"/>
@@ -514,7 +514,7 @@
         <parameter key="data_management" value="auto"/>
       </operator>
       <operator activated="true" class="read_csv" compatibility="9.2.001" expanded="true" height="68" name="Read CSV (13)" width="90" x="45" y="1258">
-        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsIn\2-URLsPaginas1201-1300.csv"/>
+        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\UrlsIn\2-URLsPaginas1201-1300.csv"/>
         <parameter key="column_separators" value=","/>
         <parameter key="trim_lines" value="false"/>
         <parameter key="use_quotes" value="true"/>

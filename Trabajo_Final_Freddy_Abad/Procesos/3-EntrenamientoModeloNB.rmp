@@ -13,7 +13,7 @@
     <parameter key="encoding" value="SYSTEM"/>
     <process expanded="true">
       <operator activated="false" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel" width="90" x="112" y="85">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\Salida\DatosModelo002.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\Salida\DatosModelo002.xlsx"/>
         <parameter key="sheet_selection" value="sheet number"/>
         <parameter key="sheet_number" value="1"/>
         <parameter key="imported_cell_range" value="A1"/>
@@ -10574,7 +10574,7 @@
         <parameter key="repository_entry" value="//Local Repository/Modelos1/DatosTrain002NB"/>
       </operator>
       <operator activated="false" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (13)" width="90" x="112" y="238">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\Salida\DatosModelo003.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\Salida\DatosModelo003.xlsx"/>
         <parameter key="sheet_selection" value="sheet number"/>
         <parameter key="sheet_number" value="1"/>
         <parameter key="imported_cell_range" value="A1"/>
@@ -13835,7 +13835,7 @@
         <parameter key="repository_entry" value="//Local Repository/Modelos1/DatosTrain003NB"/>
       </operator>
       <operator activated="false" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (14)" width="90" x="112" y="391">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\Salida\DatosModelo004.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\Salida\DatosModelo004.xlsx"/>
         <parameter key="sheet_selection" value="sheet number"/>
         <parameter key="sheet_number" value="1"/>
         <parameter key="imported_cell_range" value="A1"/>
@@ -17009,7 +17009,7 @@
         <parameter key="repository_entry" value="//Local Repository/Modelos1/DatosTrain004NB"/>
       </operator>
       <operator activated="false" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (15)" width="90" x="112" y="544">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\Salida\DatosModelo005.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\Salida\DatosModelo005.xlsx"/>
         <parameter key="sheet_selection" value="sheet number"/>
         <parameter key="sheet_number" value="1"/>
         <parameter key="imported_cell_range" value="A1"/>
@@ -18380,7 +18380,7 @@
         <parameter key="repository_entry" value="//Local Repository/Modelos1/DatosTrain005NB"/>
       </operator>
       <operator activated="false" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (16)" width="90" x="112" y="697">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\Salida\DatosModelo006.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\Salida\DatosModelo006.xlsx"/>
         <parameter key="sheet_selection" value="sheet number"/>
         <parameter key="sheet_number" value="1"/>
         <parameter key="imported_cell_range" value="A1"/>
@@ -19657,7 +19657,7 @@
         <parameter key="repository_entry" value="//Local Repository/Modelos1/DatosTrain006NB"/>
       </operator>
       <operator activated="false" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (17)" width="90" x="112" y="850">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\Salida\DatosModelo007.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\Salida\DatosModelo007.xlsx"/>
         <parameter key="sheet_selection" value="sheet number"/>
         <parameter key="sheet_number" value="1"/>
         <parameter key="imported_cell_range" value="A1"/>
@@ -20365,7 +20365,7 @@
         <parameter key="repository_entry" value="//Local Repository/Modelos1/DatosTrain007NB"/>
       </operator>
       <operator activated="false" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (18)" width="90" x="112" y="1003">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\Salida\DatosModelo008.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\Salida\DatosModelo008.xlsx"/>
         <parameter key="sheet_selection" value="sheet number"/>
         <parameter key="sheet_number" value="1"/>
         <parameter key="imported_cell_range" value="A1"/>
@@ -21008,7 +21008,7 @@
         <parameter key="repository_entry" value="//Local Repository/Modelos1/DatosTrain008NB"/>
       </operator>
       <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (19)" width="90" x="112" y="1156">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\Salida\DatosModelo009.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\Salida\DatosModelo009.xlsx"/>
         <parameter key="sheet_selection" value="sheet number"/>
         <parameter key="sheet_number" value="1"/>
         <parameter key="imported_cell_range" value="A1"/>

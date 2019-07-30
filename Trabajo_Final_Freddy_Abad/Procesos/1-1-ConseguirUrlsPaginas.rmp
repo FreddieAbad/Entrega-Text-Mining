@@ -13,7 +13,7 @@
     <parameter key="encoding" value="SYSTEM"/>
     <process expanded="true">
       <operator activated="true" class="read_csv" compatibility="9.2.001" expanded="true" height="68" name="Read CSV" width="90" x="45" y="85">
-        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\1-URLs.csv"/>
+        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\1-URLs.csv"/>
         <parameter key="column_separators" value=";"/>
         <parameter key="trim_lines" value="false"/>
         <parameter key="use_quotes" value="true"/>
@@ -32,10 +32,10 @@
         <list key="annotations"/>
         <parameter key="time_zone" value="SYSTEM"/>
         <parameter key="locale" value="English (United States)"/>
-        <parameter key="encoding" value="UTF-8"/>
+        <parameter key="encoding" value="windows-1252"/>
         <parameter key="read_all_values_as_polynominal" value="false"/>
         <list key="data_set_meta_data_information">
-          <parameter key="0" value="Paginas.true.polynominal.attribute"/>
+          <parameter key="0" value="ï»¿Paginas.true.polynominal.attribute"/>
         </list>
         <parameter key="read_not_matching_values_as_missings" value="false"/>
         <parameter key="datamanagement" value="double_array"/>
@@ -182,7 +182,7 @@
         <parameter key="include_special_attributes" value="false"/>
       </operator>
       <operator activated="true" class="write_csv" compatibility="9.2.001" expanded="true" height="82" name="Write CSV" width="90" x="849" y="85">
-        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\2-URLsPaginas.csv"/>
+        <parameter key="csv_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\2-URLsPaginas.csv"/>
         <parameter key="column_separator" value=","/>
         <parameter key="write_attribute_names" value="true"/>
         <parameter key="quote_nominal_values" value="true"/>

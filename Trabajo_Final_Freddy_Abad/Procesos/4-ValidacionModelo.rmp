@@ -19,7 +19,7 @@
         <parameter key="repository_entry" value="//Local Repository/Modelos1/DatosTrain008"/>
       </operator>
       <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel" width="90" x="45" y="136">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\5-Cuerpo-Test.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\5-Cuerpo-Test.xlsx"/>
         <parameter key="sheet_selection" value="sheet number"/>
         <parameter key="sheet_number" value="1"/>
         <parameter key="imported_cell_range" value="A1"/>
@@ -223,7 +223,6 @@
       <portSpacing port="source_input 1" spacing="0"/>
       <portSpacing port="sink_result 1" spacing="0"/>
       <portSpacing port="sink_result 2" spacing="0"/>
-      <description align="center" color="yellow" colored="false" height="50" resized="true" width="180" x="122" y="63">SVM</description>
     </process>
   </operator>
 </process>

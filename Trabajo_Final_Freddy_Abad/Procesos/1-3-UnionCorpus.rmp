@@ -13,7 +13,7 @@
     <parameter key="encoding" value="SYSTEM"/>
     <process expanded="true">
       <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel" width="90" x="45" y="34">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsOut\Final xlsx\3-CuerpoPagina1-100.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\CorpusDividido\3-CuerpoPagina1-100.xlsx"/>
         <parameter key="sheet_selection" value="sheet number"/>
         <parameter key="sheet_number" value="1"/>
         <parameter key="imported_cell_range" value="A1"/>
@@ -33,7 +33,7 @@
         <parameter key="data_management" value="auto"/>
       </operator>
       <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (2)" width="90" x="45" y="85">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsOut\Final xlsx\3-CuerpoPagina101-200.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\CorpusDividido\3-CuerpoPagina101-200.xlsx"/>
         <parameter key="sheet_selection" value="sheet number"/>
         <parameter key="sheet_number" value="1"/>
         <parameter key="imported_cell_range" value="A1"/>
@@ -74,7 +74,7 @@
         <parameter key="data_management" value="auto"/>
       </operator>
       <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (4)" width="90" x="45" y="136">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsOut\Final xlsx\3-CuerpoPagina201-300.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\CorpusDividido\3-CuerpoPagina201-300.xlsx"/>
         <parameter key="sheet_selection" value="sheet number"/>
         <parameter key="sheet_number" value="1"/>
         <parameter key="imported_cell_range" value="A1"/>
@@ -94,7 +94,7 @@
         <parameter key="data_management" value="auto"/>
       </operator>
       <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (5)" width="90" x="45" y="187">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsOut\Final xlsx\3-CuerpoPagina301-400.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\CorpusDividido\3-CuerpoPagina301-400.xlsx"/>
         <parameter key="sheet_selection" value="sheet number"/>
         <parameter key="sheet_number" value="1"/>
         <parameter key="imported_cell_range" value="A1"/>
@@ -115,7 +115,7 @@
       </operator>
       <operator activated="true" class="union" compatibility="9.2.001" expanded="true" height="82" name="Union (2)" width="90" x="246" y="136"/>
       <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (6)" width="90" x="45" y="238">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsOut\Final xlsx\3-CuerpoPagina401-500.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\CorpusDividido\3-CuerpoPagina401-500.xlsx"/>
         <parameter key="sheet_selection" value="sheet number"/>
         <parameter key="sheet_number" value="1"/>
         <parameter key="imported_cell_range" value="A1"/>
@@ -135,7 +135,7 @@
         <parameter key="data_management" value="auto"/>
       </operator>
       <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (7)" width="90" x="45" y="289">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsOut\Final xlsx\3-CuerpoPagina501-600.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\CorpusDividido\3-CuerpoPagina501-600.xlsx"/>
         <parameter key="sheet_selection" value="sheet number"/>
         <parameter key="sheet_number" value="1"/>
         <parameter key="imported_cell_range" value="A1"/>
@@ -156,7 +156,7 @@
       </operator>
       <operator activated="true" class="union" compatibility="9.2.001" expanded="true" height="82" name="Union (3)" width="90" x="246" y="238"/>
       <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (8)" width="90" x="45" y="340">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsOut\Final xlsx\3-CuerpoPagina601-700.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\CorpusDividido\3-CuerpoPagina601-700.xlsx"/>
         <parameter key="sheet_selection" value="sheet number"/>
         <parameter key="sheet_number" value="1"/>
         <parameter key="imported_cell_range" value="A1"/>
@@ -176,7 +176,7 @@
         <parameter key="data_management" value="auto"/>
       </operator>
       <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (9)" width="90" x="45" y="391">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsOut\Final xlsx\3-CuerpoPagina701-800.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\CorpusDividido\3-CuerpoPagina701-800.xlsx"/>
         <parameter key="sheet_selection" value="sheet number"/>
         <parameter key="sheet_number" value="1"/>
         <parameter key="imported_cell_range" value="A1"/>
@@ -198,7 +198,7 @@
       <operator activated="true" class="union" compatibility="9.2.001" expanded="true" height="82" name="Union (4)" width="90" x="246" y="340"/>
       <operator activated="true" class="union" compatibility="9.2.001" expanded="true" height="82" name="Union (9)" width="90" x="447" y="238"/>
       <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (10)" width="90" x="45" y="442">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsOut\Final xlsx\3-CuerpoPagina801-900.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\CorpusDividido\3-CuerpoPagina801-900.xlsx"/>
         <parameter key="sheet_selection" value="sheet number"/>
         <parameter key="sheet_number" value="1"/>
         <parameter key="imported_cell_range" value="A1"/>
@@ -218,7 +218,7 @@
         <parameter key="data_management" value="auto"/>
       </operator>
       <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (11)" width="90" x="45" y="493">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsOut\Final xlsx\3-CuerpoPagina901-1000.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\CorpusDividido\3-CuerpoPagina901-1000.xlsx"/>
         <parameter key="sheet_selection" value="sheet number"/>
         <parameter key="sheet_number" value="1"/>
         <parameter key="imported_cell_range" value="A1"/>
@@ -239,7 +239,7 @@
       </operator>
       <operator activated="true" class="union" compatibility="9.2.001" expanded="true" height="82" name="Union (5)" width="90" x="246" y="442"/>
       <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (12)" width="90" x="45" y="595">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsOut\Final xlsx\3-CuerpoPagina1101-1200.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\CorpusDividido\3-CuerpoPagina1101-1200.xlsx"/>
         <parameter key="sheet_selection" value="sheet number"/>
         <parameter key="sheet_number" value="1"/>
         <parameter key="imported_cell_range" value="A1"/>
@@ -259,7 +259,7 @@
         <parameter key="data_management" value="auto"/>
       </operator>
       <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (13)" width="90" x="45" y="544">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsOut\Final xlsx\3-CuerpoPagina1001-1100.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\CorpusDividido\3-CuerpoPagina1001-1100.xlsx"/>
         <parameter key="sheet_selection" value="sheet number"/>
         <parameter key="sheet_number" value="1"/>
         <parameter key="imported_cell_range" value="A1"/>
@@ -280,7 +280,7 @@
       </operator>
       <operator activated="true" class="union" compatibility="9.2.001" expanded="true" height="82" name="Union (6)" width="90" x="246" y="544"/>
       <operator activated="true" class="read_excel" compatibility="9.2.001" expanded="true" height="68" name="Read Excel (14)" width="90" x="45" y="646">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\UrlsOut\Final xlsx\3-CuerpoPagina1200-1300.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\CorpusDividido\3-CuerpoPagina1200-1300.xlsx"/>
         <parameter key="sheet_selection" value="sheet number"/>
         <parameter key="sheet_number" value="1"/>
         <parameter key="imported_cell_range" value="A1"/>
@@ -325,7 +325,7 @@
         <parameter key="keep_all" value="true"/>
       </operator>
       <operator activated="true" class="write_excel" compatibility="9.2.001" expanded="true" height="82" name="Write Excel" width="90" x="1318" y="289">
-        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Web-Scraping---Text-Mining\RapidMiner Process\Entregables\4-CorpusCalificacion1-1095.xlsx"/>
+        <parameter key="excel_file" value="C:\Users\Usuario\Desktop\Entrega-Text-Mining\Trabajo_Final_Freddy_Abad\Resultados\4-CorpusCalificacion1-10952.xlsx"/>
         <parameter key="file_format" value="xlsx"/>
         <parameter key="encoding" value="SYSTEM"/>
         <parameter key="sheet_name" value="RapidMiner Data"/>
